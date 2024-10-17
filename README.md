@@ -43,14 +43,7 @@ Bu projede kullanılan veri seti: [Pima Indians Diabetes Database](https://www.k
 
     Veri setinin ilk 10 satırı gösterilmiş, temel bilgileri incelenmiş, eksik veri olup olmadığı kontrol edilmiş ve değişkenler arasındaki korelasyon hesaplanmıştır. Dağılım grafikleri ve `Outcome` değişkeninin dağılımı çizilmiştir.
 
-    - Özelliklerin dağılımı:
-      
-      ![Özellik Dağılımı](images/feature_distribution.png)
-
-    - Hedef değişkenin dağılımı (0: Diyabet Yok, 1: Diyabet Var):
-      
-      ![Outcome Dağılımı](images/outcome_distribution.png)
-
+    
 4. **Veri Ön İşleme**
 
     Veriler, **StandardScaler** kullanılarak ölçeklendirilmiştir.
